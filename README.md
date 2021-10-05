@@ -12,5 +12,7 @@ Examples of generated passwords, and how they can be slightly changed to make th
 (DO NOT USE ANY OF THESE AS YOUR PASSWORDS)
 
 CostingCur%sorMadness
+
 ScannersMoldLeadsCrack^s
+
 RestrictingEx!ceptional
